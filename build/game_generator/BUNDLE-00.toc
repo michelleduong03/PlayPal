@@ -1,0 +1,3 @@
+([('game_generator',
+   '/Users/michelleduong/Code/PlayPal/dist/game_generator',
+   'EXECUTABLE')],)
